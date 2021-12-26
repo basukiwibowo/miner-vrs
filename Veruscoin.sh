@@ -1,0 +1,1 @@
+-a verushash -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u 8BhhiydkDdANyZJz3Sn9qUTCiGLS5LUmVFXMFdqvuUWR9jmg7x5kxoVBpRrk8sQHrTe8Qe1xGAoaSQyJgqLQ417iKVCTN8f -p  c=XMR,mc=0.02,m=party.1,ID=Bhaaa1 x --cpu4
